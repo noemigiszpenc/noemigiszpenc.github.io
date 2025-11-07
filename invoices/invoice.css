@@ -27,7 +27,7 @@ body {
 }
 
 .supplier {
-  color: #4682B4;
+  color: #007852;
   display: block;
 }
 
@@ -40,7 +40,7 @@ body {
   padding: 1px;
   margin-top: 1em;
   margin-bottom: 1em;
-  background: #ff8000;
+  background: #007852;
   -webkit-print-color-adjust: exact !important;
   color-adjust: exact !important;
 }
@@ -58,7 +58,7 @@ body {
 
 table.items {
   width: 100%;
-  border: 1px solid #ff8000;
+  border: 1px solid #007852;
   border-collapse: collapse;
 }
 
@@ -123,7 +123,7 @@ div.summary .part {
 div.summary .total {
   display: block;
   flex-grow: 1;
-  background: #000080;
+  background: #6bc04a;
   font-size: 140%;
 }
 
